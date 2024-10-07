@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708161569172",
+    "project_id": "galvao-bueno-196c9",
+    "storage_bucket": "galvao-bueno-196c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708161569172:android:bc2de7dce74ff493c30f81",
+        "android_client_info": {
+          "package_name": "com.example.galvao_bueno2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GMgBJosGvkAKL9STG1QMyd___Z8OnmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
